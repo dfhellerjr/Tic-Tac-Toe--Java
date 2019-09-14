@@ -16,3 +16,4 @@ is an extensive collection of classes included here, many of which were not util
 projects. Many thanks to my friend, mentor & teaching professor James Patrick ("Pat") Callahan for developing most of this material.
 
 This application was developed using the Eclipse Luna IDE v2.0.103 and Java JRE8
+
